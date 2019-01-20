@@ -4,8 +4,8 @@ Sample webpack nodejs + express application
 Inspiration - https://hackernoon.com/full-stack-web-application-using-react-node-js-express-and-webpack-97dbd5b9d708
 
 
-[![Build Status](https://travis-ci.org/crsandeep/simple-react-full-stack.svg?branch=master)](https://travis-ci.org/crsandeep/simple-react-full-stack)
-[![Greenkeeper badge](https://badges.greenkeeper.io/crsandeep/simple-react-full-stack.svg)](https://greenkeeper.io/)
+[![Build Status](https://travis-ci.com/keyurpatel/webpack-nodejs.svg?branch=master)](https://travis-ci.com/keyurpatel/webpack-nodejs)
+[![Greenkeeper badge](https://badges.greenkeeper.io/keyurpatel/webpack-nodejs.svg)](https://greenkeeper.io/)
 
 This is a boilerplate to build a full stack web application using React, Node.js, Express and Webpack. It is also configured with webpack-dev-server, eslint, prettier and babel.
 
@@ -44,7 +44,7 @@ In the production mode, we will have only 1 server running. All the client side 
 
 ```bash
 # Clone the repository
-git clone https://github.com/crsandeep/simple-react-full-stack
+git clone https://github.com/keyurpatel/webpack-nodejs
 
 # Go inside the directory
 cd simple-react-full-stack
