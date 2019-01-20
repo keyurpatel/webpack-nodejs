@@ -1,5 +1,5 @@
 # webpack-nodejs
-Sample webpack nodejs + express application
+Sample webpack 4 babel 7 nodejs + express application
 
 Inspiration - https://hackernoon.com/full-stack-web-application-using-react-node-js-express-and-webpack-97dbd5b9d708
 
